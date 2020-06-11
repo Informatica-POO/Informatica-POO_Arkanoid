@@ -110,6 +110,9 @@
         <Compile Include="Top10.Designer.cs">
           <DependentUpon>Top10.cs</DependentUpon>
         </Compile>
+        <EmbeddedResource Include="Game.resx">
+          <DependentUpon>Game.cs</DependentUpon>
+        </EmbeddedResource>
         <EmbeddedResource Include="Menu.resx">
           <DependentUpon>Menu.cs</DependentUpon>
         </EmbeddedResource>

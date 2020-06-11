@@ -32,3 +32,37 @@ C:\Users\Recinos\Desktop\Proyecto fin al\Informatica-POO_Arkanoid\Sourcecode\Pro
 C:\Users\Recinos\Desktop\Proyecto fin al\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.ValueTuple.xml
 C:\Users\Recinos\Desktop\Proyecto fin al\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe.config
 C:\Users\Recinos\Desktop\Proyecto fin al\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe.config
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Game.resources
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Top10.resources
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\Npgsql.dll
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Buffers.dll
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Memory.dll
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Text.Json.dll
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.ValueTuple.dll
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\Npgsql.pdb
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\Npgsql.xml
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Buffers.xml
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Memory.xml
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Text.Json.xml
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.ValueTuple.xml
+C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
