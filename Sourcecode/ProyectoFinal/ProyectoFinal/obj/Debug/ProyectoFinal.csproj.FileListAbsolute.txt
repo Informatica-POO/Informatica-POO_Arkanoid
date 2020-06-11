@@ -1,0 +1,11 @@
+C:\Users\Recinos\Desktop\Proyecto fin al\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Recinos\Desktop\Proyecto fin al\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Recinos\Desktop\Proyecto fin al\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Recinos\Desktop\Proyecto fin al\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Recinos\Desktop\Proyecto fin al\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Recinos\Desktop\Proyecto fin al\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Recinos\Desktop\Proyecto fin al\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Recinos\Desktop\Proyecto fin al\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Recinos\Desktop\Proyecto fin al\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Recinos\Desktop\Proyecto fin al\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\Users\Recinos\Desktop\Proyecto fin al\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Top10.resources

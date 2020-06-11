@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Recinos\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Recinos\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ProyectoFinal.1172346647.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Recinos\Desktop\Proyecto fin al\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ProyectoFinal" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Game.cs" t="Include" />
+        <e p="Game.Designer.cs" t="Include" />
+        <e p="Menu.cs" t="Include" />
+        <e p="Menu.Designer.cs" t="Include" />
+        <e p="Menu.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="ProyectoFinal.csproj" t="IncludeRecursive" />
+        <e p="Resources" t="Include">
+          <e p="Ball.png" t="Include" />
+          <e p="Fondo.jpg" t="Include" />
+          <e p="Heart.png" t="Include" />
+          <e p="Top10.jpg" t="Include" />
+        </e>
+        <e p="SQL.cs" t="Include" />
+        <e p="Top10.cs" t="Include" />
+        <e p="Top10.Designer.cs" t="Include" />
+        <e p="Top10.resx" t="Include" />
+      </e>
+      <e p="ProyectoFinal.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
