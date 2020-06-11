@@ -17,13 +17,15 @@ namespace ProyectoFinal
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+
+        private void btnIniciar_Click(object sender, EventArgs e)
         {
-            
-            
+            Player player = new Player(txtUsuario.Text,0);
+            Game window = new Game();
+            window.Show();
         }
 
-        private void button1_Click_1(object sender, EventArgs e)
+        private void btnTop_Click(object sender, EventArgs e)
         {
             
         }

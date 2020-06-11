@@ -32,7 +32,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.txtUsuario = new System.Windows.Forms.TextBox();
             this.btnIniciar = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnTop = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -75,24 +75,24 @@
             this.btnIniciar.TabIndex = 2;
             this.btnIniciar.Text = "Jugar";
             this.btnIniciar.UseVisualStyleBackColor = false;
-            this.btnIniciar.Click += new System.EventHandler(this.button1_Click);
+            this.btnIniciar.Click += new System.EventHandler(this.btnIniciar_Click);
             // 
-            // button1
+            // btnTop
             // 
-            this.button1.BackColor = System.Drawing.Color.OrangeRed;
-            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold,
+            this.btnTop.BackColor = System.Drawing.Color.OrangeRed;
+            this.btnTop.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.btnTop.FlatAppearance.BorderSize = 0;
+            this.btnTop.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnTop.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold,
                 System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(13, 15);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(102, 48);
-            this.button1.TabIndex = 3;
-            this.button1.Text = "Top 10";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click_1);
+            this.btnTop.ForeColor = System.Drawing.Color.White;
+            this.btnTop.Location = new System.Drawing.Point(13, 15);
+            this.btnTop.Name = "btnTop";
+            this.btnTop.Size = new System.Drawing.Size(101, 48);
+            this.btnTop.TabIndex = 3;
+            this.btnTop.Text = "Top 10";
+            this.btnTop.UseVisualStyleBackColor = false;
+            this.btnTop.Click += new System.EventHandler(this.btnTop_Click);
             // 
             // Form1
             // 
@@ -101,7 +101,7 @@
             this.BackgroundImage = global::ProyectoFinal.Properties.Resources.Fondo;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(759, 459);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnTop);
             this.Controls.Add(this.btnIniciar);
             this.Controls.Add(this.txtUsuario);
             this.Controls.Add(this.label1);
@@ -116,6 +116,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtUsuario;
         private System.Windows.Forms.Button btnIniciar;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnTop;
     }
 }

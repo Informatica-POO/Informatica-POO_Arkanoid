@@ -53,7 +53,7 @@ namespace ProyectoFinal
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::ProyectoFinal.Properties.Resources.Top10;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(436, 519);
+            this.ClientSize = new System.Drawing.Size(436, 538);
             this.Controls.Add(this.label1);
             this.Name = "Top10";
             this.Text = "Top10";

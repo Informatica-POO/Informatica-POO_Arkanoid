@@ -88,6 +88,7 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Player.cs" />
         <Compile Include="SQL.cs" />
         <Compile Include="Game.cs">
           <SubType>Form</SubType>
