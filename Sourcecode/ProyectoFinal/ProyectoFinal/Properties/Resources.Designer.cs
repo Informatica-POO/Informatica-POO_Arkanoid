@@ -63,6 +63,16 @@ namespace ProyectoFinal.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap arkanoid {
+            get {
+                object obj = ResourceManager.GetObject("arkanoid", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Ball {
             get {
                 object obj = ResourceManager.GetObject("Ball", resourceCulture);
@@ -86,6 +96,16 @@ namespace ProyectoFinal.Properties {
         internal static System.Drawing.Bitmap Heart {
             get {
                 object obj = ResourceManager.GetObject("Heart", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Logo_arrkanoid {
+            get {
+                object obj = ResourceManager.GetObject("Logo_arrkanoid", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

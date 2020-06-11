@@ -66,3 +66,37 @@ C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid
 C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.ValueTuple.xml
 C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\Npgsql.dll
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Buffers.dll
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Memory.dll
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Text.Json.dll
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.ValueTuple.dll
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\Npgsql.pdb
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\Npgsql.xml
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Buffers.xml
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Memory.xml
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Text.Json.xml
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\bin\Debug\System.ValueTuple.xml
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe.config
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Game.resources
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Top10.resources
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb

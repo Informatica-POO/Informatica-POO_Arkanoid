@@ -12,20 +12,20 @@ namespace ProyectoFinal
 
         int ball_x = 4;
         int ball_y = 4;
-        int score = 0;
+        int Puntuacion = 0;
 
         private void Game_over()
         {
-            if (score > 17)
+            if (Puntuacion > 17)
             {
                 timer1.Stop();
-                MessageBox.Show("You Wins..");
+                MessageBox.Show("Has Ganado");
             }
 
             if (ball.Top + ball.Height > ClientSize.Height)
             {
                 timer1.Stop();
-                MessageBox.Show("Game-Over");
+                MessageBox.Show("Fin del juego");
             }
         }
         
@@ -39,8 +39,8 @@ namespace ProyectoFinal
                     {
                         Controls.Remove(x);
                         ball_y = -ball_y;
-                        score++;
-                        lbl_score.Text = "Score :" + score;
+                        Puntuacion++;
+                        lbl_puntuacion.Text = "Puntuacion :" + Puntuacion;
                     }
                 }
             }

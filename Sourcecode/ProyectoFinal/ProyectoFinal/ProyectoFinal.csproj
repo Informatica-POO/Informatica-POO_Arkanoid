@@ -143,9 +143,12 @@
         <None Include="App.config" />
     </ItemGroup>
     <ItemGroup>
+      <Content Include="Resources\arkanoid.png" />
       <Content Include="Resources\Ball.png" />
+      <Content Include="Resources\ball1.png" />
       <Content Include="Resources\Fondo.jpg" />
       <Content Include="Resources\Heart.png" />
+      <Content Include="Resources\Logo_arrkanoid.png" />
       <Content Include="Resources\Top10.jpg" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
