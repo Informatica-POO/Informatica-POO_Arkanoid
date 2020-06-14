@@ -1,6 +1,7 @@
 # Informatica-POO_Arkanoid
 
 Nombre del Grupo: Informatica POO
+
 Integrantes:
 
 00001319 Jose Raul Artiga Gutierrez
