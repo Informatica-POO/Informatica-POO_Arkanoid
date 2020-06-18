@@ -4,7 +4,10 @@ namespace ProyectoFinal
 {
     public class Player
     {
-        private String Username;
+       
+        public string Username { get; set; }
+        
+        //private String Username;
         private int Score;
 
         public Player(string username, int score)
