@@ -148,6 +148,9 @@
       <Content Include="Resources\ball1.png" />
       <Content Include="Resources\Fondo.jpg" />
       <Content Include="Resources\Heart.png" />
+      <Content Include="Resources\ladrillo_arkanoid_scratch_amarillo.png" />
+      <Content Include="Resources\ladrillo_arkanoid_scratch_rosa.png" />
+      <Content Include="Resources\ladrillo_arkanoid_scratch_verde.png" />
       <Content Include="Resources\Logo_arrkanoid.png" />
       <Content Include="Resources\Top10.jpg" />
     </ItemGroup>

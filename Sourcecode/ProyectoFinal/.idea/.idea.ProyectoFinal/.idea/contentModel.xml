@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Johan Tino\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Johan Tino\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ProyectoFinal.109322844.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Johan Tino\Desktop\Proyecto final programacion\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal" t="IncludeFlat">
+    <e p="C:\Users\raula\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\raula\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ProyectoFinal.489403271.00" t="ExcludeRecursive" />
+    <e p="C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="ProyectoFinal" t="IncludeRecursive">
         <e p="App.config" t="Include" />
@@ -32,6 +32,9 @@
           <e p="ball1.png" t="Include" />
           <e p="Fondo.jpg" t="Include" />
           <e p="Heart.png" t="Include" />
+          <e p="ladrillo_arkanoid_scratch_amarillo.png" t="Include" />
+          <e p="ladrillo_arkanoid_scratch_rosa.png" t="Include" />
+          <e p="ladrillo_arkanoid_scratch_verde.png" t="Include" />
           <e p="Logo_arrkanoid.png" t="Include" />
           <e p="Top10.jpg" t="Include" />
         </e>

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Drawing;
 using System.Windows.Forms;
 
 namespace ProyectoFinal
@@ -33,7 +34,7 @@ namespace ProyectoFinal
         {
             foreach(Control x in this.Controls)
             {
-                if(x is PictureBox &&x.Tag=="block")
+                if(x is PictureBox &&x.Tag=="block1")
                 {
                     if(ball.Bounds.IntersectsWith(x.Bounds))
                     {
@@ -43,6 +44,24 @@ namespace ProyectoFinal
                         lbl_puntuacion.Text = "Puntuacion :" + Puntuacion;
                     }
                 }
+                 if (x is PictureBox && x.Tag == "block2")
+                {
+                    if (ball.Bounds.IntersectsWith(x.Bounds))
+                    {
+                        ball_y = -ball_y;
+                        x.Tag = "block1";
+                        x.BackColor = Color.Lime;
+                    }
+                }
+                if (x is PictureBox && x.Tag == "block3")
+                {
+                    if (ball.Bounds.IntersectsWith(x.Bounds))
+                    {
+                        ball_y = -ball_y;
+                        x.Tag = "block2";
+                        x.BackColor = Color.Fuchsia;
+                    }
+                } 
             }
         }
 
@@ -81,6 +100,11 @@ namespace ProyectoFinal
             Ball_Movment();
             Get_Score();
             Game_over();
+        }
+
+        private void Player_Click(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
         }
     }
 }
