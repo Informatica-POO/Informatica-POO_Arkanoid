@@ -86,7 +86,7 @@ namespace ProyectoFinal
             this.Player.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Player.Name = "Player";
             this.Player.Size = new System.Drawing.Size(207, 56);
-            this.Player.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.Player.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.Player.TabIndex = 0;
             this.Player.TabStop = false;
             this.Player.Click += new System.EventHandler(this.Player_Click);
@@ -195,7 +195,7 @@ namespace ProyectoFinal
             // pictureBox7
             // 
             this.pictureBox7.BackColor = System.Drawing.Color.Fuchsia;
-            this.pictureBox7.Location = new System.Drawing.Point(27, 143);
+            this.pictureBox7.Location = new System.Drawing.Point(27, 142);
             this.pictureBox7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(81, 51);
@@ -207,7 +207,7 @@ namespace ProyectoFinal
             // pictureBox8
             // 
             this.pictureBox8.BackColor = System.Drawing.Color.Fuchsia;
-            this.pictureBox8.Location = new System.Drawing.Point(115, 143);
+            this.pictureBox8.Location = new System.Drawing.Point(115, 142);
             this.pictureBox8.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(81, 51);
@@ -219,7 +219,7 @@ namespace ProyectoFinal
             // pictureBox9
             // 
             this.pictureBox9.BackColor = System.Drawing.Color.Fuchsia;
-            this.pictureBox9.Location = new System.Drawing.Point(202, 143);
+            this.pictureBox9.Location = new System.Drawing.Point(202, 142);
             this.pictureBox9.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pictureBox9.Name = "pictureBox9";
             this.pictureBox9.Size = new System.Drawing.Size(81, 51);
@@ -231,7 +231,7 @@ namespace ProyectoFinal
             // pictureBox10
             // 
             this.pictureBox10.BackColor = System.Drawing.Color.Fuchsia;
-            this.pictureBox10.Location = new System.Drawing.Point(291, 143);
+            this.pictureBox10.Location = new System.Drawing.Point(291, 142);
             this.pictureBox10.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pictureBox10.Name = "pictureBox10";
             this.pictureBox10.Size = new System.Drawing.Size(81, 51);
@@ -243,7 +243,7 @@ namespace ProyectoFinal
             // pictureBox11
             // 
             this.pictureBox11.BackColor = System.Drawing.Color.Fuchsia;
-            this.pictureBox11.Location = new System.Drawing.Point(378, 143);
+            this.pictureBox11.Location = new System.Drawing.Point(378, 142);
             this.pictureBox11.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pictureBox11.Name = "pictureBox11";
             this.pictureBox11.Size = new System.Drawing.Size(81, 51);
@@ -255,7 +255,7 @@ namespace ProyectoFinal
             // pictureBox12
             // 
             this.pictureBox12.BackColor = System.Drawing.Color.Fuchsia;
-            this.pictureBox12.Location = new System.Drawing.Point(465, 143);
+            this.pictureBox12.Location = new System.Drawing.Point(465, 142);
             this.pictureBox12.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pictureBox12.Name = "pictureBox12";
             this.pictureBox12.Size = new System.Drawing.Size(81, 51);
@@ -390,7 +390,6 @@ namespace ProyectoFinal
             ((System.ComponentModel.ISupportInitialize) (this.pictureBox17)).EndInit();
             ((System.ComponentModel.ISupportInitialize) (this.pictureBox18)).EndInit();
             this.ResumeLayout(false);
-            this.PerformLayout();
         }
 
         #endregion

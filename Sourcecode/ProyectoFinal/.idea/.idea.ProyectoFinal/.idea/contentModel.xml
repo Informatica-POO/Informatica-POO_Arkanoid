@@ -36,6 +36,7 @@
           <e p="ladrillo_arkanoid_scratch_rosa.png" t="Include" />
           <e p="ladrillo_arkanoid_scratch_verde.png" t="Include" />
           <e p="Logo_arrkanoid.png" t="Include" />
+          <e p="Nave.png" t="Include" />
           <e p="Top10.jpg" t="Include" />
         </e>
         <e p="SQL.cs" t="Include" />

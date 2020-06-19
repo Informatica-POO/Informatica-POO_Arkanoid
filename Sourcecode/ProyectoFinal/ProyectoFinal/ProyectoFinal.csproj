@@ -152,6 +152,7 @@
       <Content Include="Resources\ladrillo_arkanoid_scratch_rosa.png" />
       <Content Include="Resources\ladrillo_arkanoid_scratch_verde.png" />
       <Content Include="Resources\Logo_arrkanoid.png" />
+      <Content Include="Resources\Nave.png" />
       <Content Include="Resources\Top10.jpg" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
