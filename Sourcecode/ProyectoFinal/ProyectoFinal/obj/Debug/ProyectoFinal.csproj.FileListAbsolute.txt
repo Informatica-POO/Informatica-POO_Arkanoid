@@ -100,3 +100,4 @@ C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoF
 C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
 C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
 C:\Users\raula\OneDrive\Escritorio\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Recinos\Desktop\Proyecto fin al\Informatica-POO_Arkanoid\Sourcecode\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Game.resources

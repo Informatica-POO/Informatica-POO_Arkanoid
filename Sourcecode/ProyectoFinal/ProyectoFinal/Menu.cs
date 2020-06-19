@@ -12,17 +12,18 @@ namespace ProyectoFinal
 {
   public partial class Form1 : Form
   {
-
+      private Player p;
       public Form1()
       {
           InitializeComponent();
+          
       }
 
 
       private void btnIniciar_Click(object sender, EventArgs e)
         {
-            Player player = new Player(txtUsuario.Text,0);
-            Game window = new Game();
+            p = new Player(txtUsuario.Text);
+            Game window = new Game(p);
             window.Show();
         }
 

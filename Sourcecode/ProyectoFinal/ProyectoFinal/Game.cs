@@ -6,9 +6,14 @@ namespace ProyectoFinal
 {
     public partial class Game : Form
     {
-        public Game()
+        Player u ;
+    
+        public Game(Player p)
         {
             InitializeComponent();
+            u = p ;
+            
+            
         }
 
         int ball_x = 4;
@@ -17,7 +22,7 @@ namespace ProyectoFinal
 
         private void Game_over()
         {
-            if (Puntuacion > 17)
+            if (Puntuacion >= 36)
             {
                 timer1.Stop();
                 MessageBox.Show("Has Ganado");
@@ -26,7 +31,19 @@ namespace ProyectoFinal
             if (ball.Top + ball.Height > ClientSize.Height)
             {
                 timer1.Stop();
-                MessageBox.Show("Fin del juego");
+                MessageBox.Show("Reiniciar");
+                u.Lives--;
+                if (u.Lives == 0)
+                {
+                    MessageBox.Show("Fin del juego");
+                    this.Close();
+                }
+                ball.Left = 190;
+                ball.Top = 310;
+                ball_x = -4;
+                ball_y = -4;
+                Player.Left = 170;
+                timer1.Start();
             }
         }
         
@@ -51,6 +68,7 @@ namespace ProyectoFinal
                         ball_y = -ball_y;
                         x.Tag = "block1";
                         x.BackColor = Color.Lime;
+                        Puntuacion++;
                     }
                 }
                 if (x is PictureBox && x.Tag == "block3")
@@ -60,6 +78,7 @@ namespace ProyectoFinal
                         ball_y = -ball_y;
                         x.Tag = "block2";
                         x.BackColor = Color.Fuchsia;
+                        Puntuacion ++;
                     }
                 } 
             }
@@ -96,16 +115,13 @@ namespace ProyectoFinal
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-
+            lblLives.Text = u.Lives.ToString();
             Ball_Movment();
             Get_Score();
             Game_over();
         }
-
-        private void Player_Click(object sender, EventArgs e)
-        {
-            throw new System.NotImplementedException();
-        }
+        
+        
     }
 }
             

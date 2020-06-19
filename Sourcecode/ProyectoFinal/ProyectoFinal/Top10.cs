@@ -1,4 +1,8 @@
-﻿using System.Windows.Forms;
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Windows.Forms;
 
 namespace ProyectoFinal
 {
@@ -9,22 +13,23 @@ namespace ProyectoFinal
         public Top10()
         {
             InitializeComponent();
+            cargar();
            
         }
-
-        public Top10(Player jPlayer)
-        {
-            p = jPlayer;
-            cargar();
-        }
         
-
         private void cargar()
         {
-            var dt = SQL.query($"SELECT FROM TOP" +
-                               $"WHERE player= '{p.Username.ToString()}");
+            var dt = SQL.query("SELECT player, score FROM player ORDER BY score DESC;");
+
+
             dataGridView1.DataSource = null;
-            dataGridView1.DataSource = dt;
+            dataGridView1.DataSource = dt;    
+
+
+
+
         }
+
+
     }
 }

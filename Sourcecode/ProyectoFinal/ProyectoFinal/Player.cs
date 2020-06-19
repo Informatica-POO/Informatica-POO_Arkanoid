@@ -4,16 +4,31 @@ namespace ProyectoFinal
 {
     public class Player
     {
-       
-        public string Username { get; set; }
+
+        public string Username;
         
-        //private String Username;
         private int Score;
 
-        public Player(string username, int score)
+        private int lives;
+        public int Lives
+        {
+            get => lives;
+            set => lives = value;
+        }
+
+        public string Username1 => Username;
+
+        public int Score1
+        {
+            get => Score;
+            set => Score = value;
+        }
+
+        public Player(string username)
         {
             Username = username;
-            Score = score;
+            Score = 0;
+            lives = 3;
         }
     }
 }
