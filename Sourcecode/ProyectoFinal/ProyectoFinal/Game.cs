@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data;
 using System.Drawing;
 using System.Windows.Forms;
 
@@ -26,24 +27,66 @@ namespace ProyectoFinal
             {
                 timer1.Stop();
                 MessageBox.Show("Has Ganado");
+                AddScore();
+                
             }
 
             if (ball.Top + ball.Height > ClientSize.Height)
             {
-                timer1.Stop();
-                MessageBox.Show("Reiniciar");
                 u.Lives--;
+                timer1.Stop();
+                if (u.Lives > 0)
+                {
+                    MessageBox.Show("Reiniciar");
+                }
+
                 if (u.Lives == 0)
                 {
                     MessageBox.Show("Fin del juego");
+
                     this.Close();
+                    AddScore();
+
                 }
+
                 ball.Left = 190;
                 ball.Top = 310;
                 ball_x = -4;
                 ball_y = -4;
                 Player.Left = 170;
                 timer1.Start();
+                
+            }
+        }
+
+
+        private void AddScore()
+        {
+            DataTable dt = SQL.query($"SELECT *FROM PLAYER ");
+
+            bool Exist = false;
+
+            foreach (DataRow row in dt.Rows)
+            {
+                if (row[0].ToString().Equals(u.Username1))
+                {
+                    if (u.Score1 > (Convert.ToInt32(row[1].ToString())))
+                    {
+                        Exist = true;
+                    }
+                }
+            }
+
+            if (Exist)
+            {
+                string sql = $"UPDATE PLAYER SET score = {u.Score1} WHERE player = '{u.Username1}'";
+                SQL.nonquery(sql);
+            }
+
+            else
+            {
+                string sql2 = $"INSERT INTO PLAYER(player,score) VALUES('{u.Username1}',{u.Score1}) ";
+                SQL.nonquery(sql2);
             }
         }
         
@@ -61,7 +104,7 @@ namespace ProyectoFinal
                         lbl_puntuacion.Text = "Puntuacion :" + Puntuacion;
                     }
                 }
-                 if (x is PictureBox && x.Tag == "block2")
+                if (x is PictureBox && x.Tag == "block2")
                 {
                     if (ball.Bounds.IntersectsWith(x.Bounds))
                     {
@@ -80,7 +123,9 @@ namespace ProyectoFinal
                         x.BackColor = Color.Fuchsia;
                         Puntuacion ++;
                     }
-                } 
+                }
+
+                u.Score1 = Puntuacion;
             }
         }
 
