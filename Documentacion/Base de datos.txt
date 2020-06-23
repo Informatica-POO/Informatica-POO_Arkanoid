@@ -1,0 +1,4 @@
+CREATE TABLE PLAYER(
+    PLAYER varchar(50) PRIMARY KEY,
+    SCORE int NOT NULL
+);
