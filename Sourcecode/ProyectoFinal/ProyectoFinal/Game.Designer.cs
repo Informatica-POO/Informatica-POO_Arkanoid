@@ -83,7 +83,7 @@ namespace ProyectoFinal
             // 
             this.Player.BackColor = System.Drawing.Color.OrangeRed;
             this.Player.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.Player.Location = new System.Drawing.Point(192, 393);
+            this.Player.Location = new System.Drawing.Point(198, 393);
             this.Player.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.Player.Name = "Player";
             this.Player.Size = new System.Drawing.Size(117, 20);
@@ -109,7 +109,7 @@ namespace ProyectoFinal
             this.lbl_puntuacion.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F,
                 System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.lbl_puntuacion.ForeColor = System.Drawing.Color.Red;
-            this.lbl_puntuacion.Location = new System.Drawing.Point(23, 16);
+            this.lbl_puntuacion.Location = new System.Drawing.Point(259, 9);
             this.lbl_puntuacion.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl_puntuacion.Name = "lbl_puntuacion";
             this.lbl_puntuacion.Size = new System.Drawing.Size(219, 29);
@@ -344,7 +344,7 @@ namespace ProyectoFinal
             this.lblLives.BackColor = System.Drawing.Color.Transparent;
             this.lblLives.Font = new System.Drawing.Font("Bookman Old Style", 26.25F, System.Drawing.FontStyle.Bold,
                 System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.lblLives.Location = new System.Drawing.Point(414, 9);
+            this.lblLives.Location = new System.Drawing.Point(72, 9);
             this.lblLives.Name = "lblLives";
             this.lblLives.Size = new System.Drawing.Size(64, 48);
             this.lblLives.TabIndex = 4;
@@ -355,7 +355,7 @@ namespace ProyectoFinal
             this.pictureBox19.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox19.BackgroundImage = global::ProyectoFinal.Properties.Resources.Heart;
             this.pictureBox19.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox19.Location = new System.Drawing.Point(353, 9);
+            this.pictureBox19.Location = new System.Drawing.Point(12, 9);
             this.pictureBox19.Name = "pictureBox19";
             this.pictureBox19.Size = new System.Drawing.Size(54, 48);
             this.pictureBox19.TabIndex = 5;

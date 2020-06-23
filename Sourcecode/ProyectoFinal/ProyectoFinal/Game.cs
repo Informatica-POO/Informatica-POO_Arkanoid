@@ -112,6 +112,7 @@ namespace ProyectoFinal
                         x.Tag = "block1";
                         x.BackColor = Color.Lime;
                         Puntuacion++;
+                        lbl_puntuacion.Text = "Puntuacion :" + Puntuacion;
                     }
                 }
                 if (x is PictureBox && x.Tag == "block3")
@@ -122,6 +123,7 @@ namespace ProyectoFinal
                         x.Tag = "block2";
                         x.BackColor = Color.Fuchsia;
                         Puntuacion ++;
+                        lbl_puntuacion.Text = "Puntuacion :" + Puntuacion;
                     }
                 }
 

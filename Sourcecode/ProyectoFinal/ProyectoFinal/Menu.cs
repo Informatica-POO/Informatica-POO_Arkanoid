@@ -21,11 +21,19 @@ namespace ProyectoFinal
 
 
       private void btnIniciar_Click(object sender, EventArgs e)
-        {
-            p = new Player(txtUsuario.Text);
-            Game window = new Game(p);
-            window.Show();
-        }
+      {
+          if (txtUsuario.Text.Equals(""))
+          {
+              MessageBox.Show("Ingrese un usuario válido");
+          }
+          else
+          {
+              p = new Player(txtUsuario.Text);
+              Game window = new Game(p);
+              window.Show();
+
+          } 
+      }
 
       private void btnTop_Click(object sender, EventArgs e)
       {
