@@ -6,6 +6,8 @@ namespace ProyectoFinal
 {
     public class SQL
     {
+        
+        
         private static string _SQL  =
             "Server=localhost;Port=5432;User Id=postgres;Password=uca;Database=Proyecto;";
 

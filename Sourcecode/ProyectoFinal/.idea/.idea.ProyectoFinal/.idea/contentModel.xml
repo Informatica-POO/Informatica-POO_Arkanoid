@@ -32,9 +32,9 @@
           <e p="ball1.png" t="Include" />
           <e p="Fondo.jpg" t="Include" />
           <e p="Heart.png" t="Include" />
-          <e p="ladrillo_arkanoid_scratch_amarillo.png" t="Include" />
-          <e p="ladrillo_arkanoid_scratch_rosa.png" t="Include" />
-          <e p="ladrillo_arkanoid_scratch_verde.png" t="Include" />
+          <e p="ladrillo_amarillo.png" t="Include" />
+          <e p="ladrillo_rosa.png" t="Include" />
+          <e p="ladrillo_verde.png" t="Include" />
           <e p="Logo_arrkanoid.png" t="Include" />
           <e p="Nave.png" t="Include" />
           <e p="Top10.jpg" t="Include" />

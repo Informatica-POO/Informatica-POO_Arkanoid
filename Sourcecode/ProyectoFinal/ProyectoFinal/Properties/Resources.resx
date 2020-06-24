@@ -140,13 +140,13 @@
     <value>..\Resources\ball1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ladrillo_arkanoid_scratch_amarillo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ladrillo_arkanoid_scratch_amarillo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\Resources\ladrillo_amarillo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ladrillo_arkanoid_scratch_rosa" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ladrillo_arkanoid_scratch_rosa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\Resources\ladrillo_rosa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ladrillo_arkanoid_scratch_verde" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ladrillo_arkanoid_scratch_verde.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\Resources\ladrillo_verde.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Nave" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Nave.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

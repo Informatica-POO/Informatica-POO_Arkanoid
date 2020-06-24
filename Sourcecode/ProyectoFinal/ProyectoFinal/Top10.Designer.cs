@@ -52,6 +52,8 @@ namespace ProyectoFinal
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(332, 357);
             this.Controls.Add(this.dataGridView1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "Top10";
             this.Text = "Top10";
             ((System.ComponentModel.ISupportInitialize) (this.dataGridView1)).EndInit();

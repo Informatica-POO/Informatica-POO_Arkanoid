@@ -105,6 +105,8 @@
             this.Controls.Add(this.btnIniciar);
             this.Controls.Add(this.txtUsuario);
             this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Menu principal";
             this.ResumeLayout(false);

@@ -118,13 +118,13 @@ namespace ProyectoFinal
             // 
             // ball
             // 
-            this.ball.BackColor = System.Drawing.Color.Transparent;
+            this.ball.BackColor = System.Drawing.Color.DodgerBlue;
             this.ball.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ball.Image = global::ProyectoFinal.Properties.Resources.Ball;
-            this.ball.Location = new System.Drawing.Point(241, 360);
+            this.ball.Location = new System.Drawing.Point(239, 357);
             this.ball.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.ball.Name = "ball";
-            this.ball.Size = new System.Drawing.Size(27, 27);
+            this.ball.Size = new System.Drawing.Size(29, 31);
             this.ball.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.ball.TabIndex = 3;
             this.ball.TabStop = false;
@@ -391,7 +391,9 @@ namespace ProyectoFinal
             this.Controls.Add(this.pictureBox7);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.Player);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
+            this.MaximizeBox = false;
             this.Name = "Game";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Game";

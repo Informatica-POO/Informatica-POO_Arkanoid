@@ -19,12 +19,18 @@ namespace ProyectoFinal
         
         private void cargar()
         {
-            var dt = SQL.query("SELECT player, score FROM player ORDER BY score DESC;");
+            // Se carga el top 10 a una tabla y se muestra
+            try
+            {
+                var dt = SQL.query("SELECT player, score FROM player ORDER BY score DESC LIMIT 10;");
+                dataGridView1.DataSource = null;
+                dataGridView1.DataSource = dt;    
 
-
-            dataGridView1.DataSource = null;
-            dataGridView1.DataSource = dt;    
-
+            }
+            catch (Exception )
+            {
+                MessageBox.Show("Error!");
+            }
 
 
 
